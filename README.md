@@ -1,7 +1,7 @@
 `npm install`
 
 Kindly uninstall and re-install react and react-dom :
-`npm uninstall react react-dom`
+`npm uninstall react react-dom`  
 `npm install react react-dom`
 
 Then install @dpapi packages
