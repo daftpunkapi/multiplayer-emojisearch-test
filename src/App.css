@@ -26,3 +26,11 @@
     transform: rotate(360deg);
   }
 }
+
+.other-cursor {
+  position : absolute;
+  width: 35px;
+  height: 35px;
+  background-size: contain;
+  border-radius: 100%;
+}
